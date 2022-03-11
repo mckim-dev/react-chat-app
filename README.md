@@ -1,8 +1,10 @@
-# Chat App using React Chat engine and Socket.io
+# Chat App using React Chat Engine
+
+https://chatengine.io/
 
 This project will contain encryption and other features not currently shown in the initial commit.
 
-<img src="./public/ProjectScreenshot_initCommit.jpg">
+<img src="./public/ProjectScreenshot_initCommit.jpg" alt="Chat App Screenshot">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
