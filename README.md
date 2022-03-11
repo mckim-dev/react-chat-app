@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Chat App using React Chat engine and Socket.io
+
+This project will contain encryption and other features not currently shown in the initial commit.
+
+<img src="./public/ProjectScreenshot_initCommit.jpg">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
